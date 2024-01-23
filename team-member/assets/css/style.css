@@ -1,0 +1,52 @@
+.teams-page {
+    font-family: Arial, sans-serif; /* Use your preferred font family */
+    margin: 20px; /* Adjust margins as needed */
+}
+
+#taxonomySelect {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.teams {
+    margin-top: 20px;
+}
+
+.team-member {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    background-color: #f9f9f9;
+}
+
+.team-member img {
+    width: 100px; /* Adjust image size as needed */
+    height: auto;
+    border-radius: 50%; /* To create a circular image */
+    margin-bottom: 10px;
+}
+
+.team-member p {
+    margin: 5px 0;
+}
+
+.team-member h3 {
+    margin: 5px 0;
+    font-size: 18px;
+}
+/* Apply styles to the ul and li elements */
+.teams ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.teams ul li {
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
+}
